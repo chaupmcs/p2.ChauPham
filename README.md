@@ -14,13 +14,14 @@ Design a user-friendly interface for Car's Dashboard with [Processing](https://p
 <br/>
 <br/>
 
-- Demo (ver 2)
+- Demo (ver XYZ)
 
-<img src="https://raw.githubusercontent.com/chaupmcs/p2.ChauPham/main/pictures/demo.png" width="1000" height="420">
+<!-- <img src="https://raw.githubusercontent.com/chaupmcs/p2.ChauPham/main/pictures/demo.png" width="1000" height="420"> -->
 
 
 - Ver 1.0. Set up the project
 - Ver 2.0. Sketch
+- Ver 3.0. Add Icons, Buttons, Images
 
 
 
