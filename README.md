@@ -9,7 +9,7 @@ Design a user-friendly interface for Car's Dashboard with [Processing](https://p
 
 - My sketch
 
-<img src="https://raw.githubusercontent.com/chaupmcs/p2.ChauPham/main/pictures/sketch.jpg" width="500" height="800">
+<img src="https://raw.githubusercontent.com/chaupmcs/p2.ChauPham/main/pictures/sketch.jpg" width="800" height="600">
 
 <br/>
 <br/>
