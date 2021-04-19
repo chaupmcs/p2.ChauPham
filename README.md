@@ -14,9 +14,9 @@ Design a user-friendly interface for Car's Dashboard with [Processing](https://p
 <br/>
 <br/>
 
-- Demo (ver XYZ)
+- Demo (Final Version)
 
-<img src="https://raw.githubusercontent.com/chaupmcs/p2.ChauPham/main/pictures/my_demo.png" width="1000" height="420">
+<img src="https://raw.githubusercontent.com/chaupmcs/p2.ChauPham/main/pictures/my_demo.png" width="1600" height="900">
 
 
 
