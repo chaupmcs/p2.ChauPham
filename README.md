@@ -4,7 +4,7 @@ Design a user-friendly interface for Car's Dashboard with [Processing](https://p
 - [Report](https://chaupmcs.github.io/p2.ChauPham/index.html)
 <br/>
 
-- [Video](https://www.youtube.com/watch?v=FuHViAN-mag)
+- [Video](https://youtu.be/abe4FVovNkg)
 <br/>
 
 - My sketch
