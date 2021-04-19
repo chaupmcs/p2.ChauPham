@@ -2,7 +2,7 @@
     import controlP5.*;
     import processing.sound.*;
 
-    SoundFile sound_button, sound_turn;
+    SoundFile sound_button, sound_turn, sound_car_engine;
 
     ControlP5 controlP5;
     Knob knob_speed_level;
@@ -84,7 +84,7 @@
       // sound effects
       sound_button = new SoundFile(this, "sounds/btn_click.mp3");
       sound_turn = new SoundFile(this, "sounds/car_turn_indicator.mp3");
-
+      sound_car_engine = new SoundFile(this, "sounds/car_engine.mp3");
       smooth();
 
       // Create a knob for speed level
@@ -371,7 +371,15 @@
     // Handler when the knob was turned
     void knob(int theValue) {
       speed_level = theValue;
+      if (theValue - previous_rpm_level>0){
+        sound_car_engine.play();
+      }
+      else{
+        sound_car_engine.stop();
+
+      }
       rpm_level = Math.max(theValue - previous_rpm_level,0);
       previous_rpm_level = theValue;
+      
 
     }
